@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "5a87",
+      "name": "Pedro Perez",
+      "email": "juan@123.com",
+      "password": "U2FsdGVkX1+Ogng2DaT1pixnS1gwuGnZGo74GEAt+EM=",
+      "role": "user",
+      "tasks": []
+    },
+    {
+      "id": "900a",
+      "name": "Juan",
+      "email": "juan@juan.com",
+      "password": "U2FsdGVkX18BcwEq1sWPiYnrZ4PEJNBGtxTm+JykdJQ=",
+      "role": "user",
+      "tasks": []
+    }
+  ],
+  "tasks": []
+}
